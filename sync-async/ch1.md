@@ -1,5 +1,8 @@
-# You Don't Know JS Yet: Sync & Async - 2nd Edition
-# Chapter 1: TODO
+# ch1
+
+## You Don't Know JS Yet: Sync & Async - 2nd Edition
+
+## Chapter 1: TODO
 
 | NOTE: |
 | :--- |
